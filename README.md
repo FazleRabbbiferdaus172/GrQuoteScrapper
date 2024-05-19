@@ -1,0 +1,1 @@
+Scrapped BrainyQuote Quotes
