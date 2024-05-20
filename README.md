@@ -24,7 +24,7 @@ Sadly because of time constrains `SQLite` was used for db technology. (Will add 
 ## Running
 In the same terminal window make sure the virtual environment is active
 1. Change directory: `cd ./quotes_scraper`
-2. Now in terminal window, Run Scrapper: `scrapy crawl quotespider`
+2. Now in terminal window, Run Scrapper: `scrapy crawl quotespider`, you may also pass an argument to limit the crawler `crawl quotespider -a follow_limit=3`
 3. Open another terminal window.
 4. activate virtual environment in the new terminal `source venv/bin/activate`
 5. if not in 'quotes_scrapper' directory change the directory.
