@@ -1,6 +1,6 @@
 # Quote scraping & API
 
-This project Scrape quotes from Goodreads. Extracts the quoted text, author name, and any additional relevant information on SQLlite database. Then exposes api to crud on then.
+This project scrapes quotes from Goodreads. It extracts the quoted text, author name, and any additional relevant information into an SQLite database. Then, it exposes an API to perform CRUD operations on the data.
 
 # Architecture
 
