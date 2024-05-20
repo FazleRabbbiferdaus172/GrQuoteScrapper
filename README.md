@@ -31,4 +31,4 @@ In the same terminal window make sure the virtual environment is active
 6. Now in terminal window, Run fastapi: `fastapi run`
 
 # Docs
-After runninfg fastapi, OpenApi docs should be available at http://localhost:8000/docs
+After running fastapi, OpenApi docs should be available at http://localhost:8000/docs
