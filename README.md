@@ -4,7 +4,7 @@ This project Scrape quotes from Goodreads. Extracts the quoted text, author name
 
 # Architecture
 
-`scrapy` is used for scraping `scrapy`.
+`scrapy` is used for scraping `Goodreads quotes`.
 
 Schemas/models representing quotes, author and tag are implemented using `pydantic` & `sqlAlchemy`, so they have parsing&validation
 out-of-the-box.
